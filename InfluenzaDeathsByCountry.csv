@@ -1,184 +1,184 @@
-﻿Country,WHO_InfluenzaDeathsPerMillion,,,,
-Sierra Leone,234.45,,,,
-Nigeria,228.17,,,,
-Chad,204.33,,,,
-Cote d Ivoire,198.5,,,,
-Angola,176.7,,,,
-Niger,165.84,,,,
-Central Africa,163.65,,,,
-Benin,159.6,,,,
-Somalia,156.01,,,,
-Togo,155.35,,,,
-Gambia,154.66,,,,
-Burkina Faso,149.88,,,,
-Guinea-Bissau,146.18,,,,
-Guinea,144.82,,,,
-Ghana,144.64,,,,
-Cameroon,144.06,,,,
-Equ. Guinea,141.17,,,,
-Mauritania,138.44,,,,
-Comoros,128.67,,,,
-DR Congo,128.08,,,,
-Burundi,124.96,,,,
-Liberia,124.54,,,,
-South Sudan,124.14,,,,
-Philippines,115.96,,,,
-Lesotho,109.31,,,,
-Eritrea,106.78,,,,
-Swaziland,101.17,,,,
-Sao Tome,101.05,,,,
-Zimbabwe,100.65,,,,
-Tanzania,99.87,,,,
-Malawi,99.74,,,,
-Djibouti,98.96,,,,
-Gabon,97.67,,,,
-Uganda,97.38,,,,
-Senegal,95.11,,,,
-Namibia,93.99,,,,
-Rwanda,91.82,,,,
-New Guinea,91.01,,,,
-Peru,90.3,,,,
-Zambia,90,,,,
-Kenya,89.41,,,,
-Mozambique,87.67,,,,
-Congo,87.33,,,,
-Ethiopia,86.8,,,,
-Grenada,86.5,,,,
-South Africa,86.33,,,,
-Haiti,84.39,,,,
-Madagascar,83.91,,,,
-Cape Verde,83.78,,,,
-Botswana,82.52,,,,
-Mali,79.71,,,,
-Bolivia,75.86,,,,
-Laos,75.1,,,,
-Malaysia,74.61,,,,
-Timor-Leste,71.87,,,,
-Singapore,70.09,,,,
-Thailand,69.87,,,,
-Kiribati,69.72,,,,
-Seychelles,69.41,,,,
-Guatemala,66.66,,,,
-Afghanistan,64.21,,,,
-India,64.03,,,,
-Barbados,62.8,,,,
-Sudan,60.13,,,,
-Belize,58.8,,,,
-Kuwait,58.28,,,,
-Cambodia,57.85,,,,
-Guyana,56.31,,,,
-Yemen,54.48,,,,
-Saint Vincent,53.89,,,,
-Argentina,52.66,,,,
-Solomon Isl.,52.17,,,,
-Tonga,52.09,,,,
-Micronesia,50.36,,,,
-Saudi Arabia,49.64,,,,
-Tajikistan,48.9,,,,
-Nepal,47.23,,,,
-Myanmar,47.16,,,,
-Bhutan,44.36,,,,
-Vanuatu,43.81,,,,
-Brazil,42.96,,,,
-El Salvador,42.07,,,,
-Fiji,40.02,,,,
-Pakistan,39.45,,,,
-Oman,39.11,,,,
-Ecuador,38.7,,,,
-Samoa,37.72,,,,
-Suriname,36.69,,,,
-Morocco,34.97,,,,
-Japan,34.54,,,,
-Libya,33.38,,,,
-Paraguay,32.65,,,,
-Tunisia,32.53,,,,
-Turkmenistan,32.3,,,,
-Saint Lucia,32.22,,,,
-Cuba,31.07,,,,
-Antigua/Bar.,30.87,,,,
-Portugal,29.81,,,,
-Egypt,29.13,,,,
-Algeria,27.82,,,,
-Russia,27.61,,,,
-Uruguay,26.73,,,,
-Indonesia,26.72,,,,
-Bahamas,26.64,,,,
-Kazakhstan,26.61,,,,
-Brunei,26.19,,,,
-Trinidad/Tob.,25.74,,,,
-Arab Emirates,25.54,,,,
-Nicaragua,24.91,,,,
-Uzbekistan,24.69,,,,
-Panama,24.46,,,,
-Romania,24.27,,,,
-Belgium,24.22,,,,
-Venezuela,24.12,,,,
-Sri Lanka,24,,,,
-Dominican Rep.,23.83,,,,
-Viet Nam,23.39,,,,
-Syria,23.17,,,,
-United Kingdom,23.01,,,,
-Jordan,22.75,,,,
-North Korea,22.68,,,,
-Iraq,22.66,,,,
-Moldova,22.6,,,,
-Mauritius,22.44,,,,
-Bangladesh,21.99,,,,
-Israel,21.91,,,,
-Slovakia,21.91,,,,
-Bahrain,21.41,,,,
-Colombia,20.91,,,,
-Chile,20.32,,,,
-South Korea,19.84,,,,
-Malta,19.76,,,,
-Iran,19.67,,,,
-Norway,19.62,,,,
-Mexico,19.52,,,,
-Azerbaijan,19.02,,,,
-Maldives,18.56,,,,
-Jamaica,18.29,,,,
-Poland,17.56,,,,
-Denmark,17.12,,,,
-Honduras,16.61,,,,
-Ireland,15.91,,,,
-Mongolia,15.64,,,,
-Sweden,15.57,,,,
-Czech Republic,15.51,,,,
-Slovenia,15.28,,,,
-United States,14.91,,,,
-China,14.69,,,,
-Netherlands,14.56,,,,
-Bulgaria,14.56,,,,
-Turkey,14.43,,,,
-France,14.1,,,,
-Costa Rica,13.81,,,,
-Latvia,12.99,,,,
-Luxembourg,12.46,,,,
-Iceland,11.9,,,,
-Kyrgyzstan,11.82,,,,
-Lithuania,11.59,,,,
-Albania,11.29,,,,
-Qatar,11.21,,,,
-Greece,11.16,,,,
-New Zealand,10.98,,,,
-Germany,10.86,,,,
-Georgia,10.24,,,,
-Spain,10.21,,,,
-Switzerland,10.19,,,,
-Estonia,10.18,,,,
-Armenia,9.9,,,,
-Australia,9.68,,,,
-Canada,9.34,,,,
-Ukraine,9.02,,,,
-Lebanon,8.57,,,,
-Serbia,8.21,,,,
-Cyprus,8.19,,,,
-Italy,8.15,,,,
-Bosnia/Herzeg.,7.25,,,,
-Croatia,7.08,,,,
-Montenegro,6.49,,,,
-Hungary,6.1,,,,
-Belarus,5.19,,,,
-No Macedonia,4.58,,,,
-Austria,4.27,,,,
-Finland,2.91,,,,
+﻿country,WHO_InfluenzaDeathsPerMillion
+Sierra Leone,234.45
+Nigeria,228.17
+Chad,204.33
+Cote d Ivoire,198.5
+Angola,176.7
+Niger,165.84
+Central Africa,163.65
+Benin,159.6
+Somalia,156.01
+Togo,155.35
+Gambia,154.66
+Burkina Faso,149.88
+Guinea-Bissau,146.18
+Guinea,144.82
+Ghana,144.64
+Cameroon,144.06
+Equ. Guinea,141.17
+Mauritania,138.44
+Comoros,128.67
+DR Congo,128.08
+Burundi,124.96
+Liberia,124.54
+South Sudan,124.14
+Philippines,115.96
+Lesotho,109.31
+Eritrea,106.78
+Swaziland,101.17
+Sao Tome,101.05
+Zimbabwe,100.65
+Tanzania,99.87
+Malawi,99.74
+Djibouti,98.96
+Gabon,97.67
+Uganda,97.38
+Senegal,95.11
+Namibia,93.99
+Rwanda,91.82
+New Guinea,91.01
+Peru,90.3
+Zambia,90
+Kenya,89.41
+Mozambique,87.67
+Congo,87.33
+Ethiopia,86.8
+Grenada,86.5
+South Africa,86.33
+Haiti,84.39
+Madagascar,83.91
+Cape Verde,83.78
+Botswana,82.52
+Mali,79.71
+Bolivia,75.86
+Laos,75.1
+Malaysia,74.61
+Timor-Leste,71.87
+Singapore,70.09
+Thailand,69.87
+Kiribati,69.72
+Seychelles,69.41
+Guatemala,66.66
+Afghanistan,64.21
+India,64.03
+Barbados,62.8
+Sudan,60.13
+Belize,58.8
+Kuwait,58.28
+Cambodia,57.85
+Guyana,56.31
+Yemen,54.48
+Saint Vincent,53.89
+Argentina,52.66
+Solomon Isl.,52.17
+Tonga,52.09
+Micronesia,50.36
+Saudi Arabia,49.64
+Tajikistan,48.9
+Nepal,47.23
+Myanmar,47.16
+Bhutan,44.36
+Vanuatu,43.81
+Brazil,42.96
+El Salvador,42.07
+Fiji,40.02
+Pakistan,39.45
+Oman,39.11
+Ecuador,38.7
+Samoa,37.72
+Suriname,36.69
+Morocco,34.97
+Japan,34.54
+Libya,33.38
+Paraguay,32.65
+Tunisia,32.53
+Turkmenistan,32.3
+Saint Lucia,32.22
+Cuba,31.07
+Antigua/Bar.,30.87
+Portugal,29.81
+Egypt,29.13
+Algeria,27.82
+Russia,27.61
+Uruguay,26.73
+Indonesia,26.72
+Bahamas,26.64
+Kazakhstan,26.61
+Brunei,26.19
+Trinidad/Tob.,25.74
+Arab Emirates,25.54
+Nicaragua,24.91
+Uzbekistan,24.69
+Panama,24.46
+Romania,24.27
+Belgium,24.22
+Venezuela,24.12
+Sri Lanka,24
+Dominican Rep.,23.83
+Viet Nam,23.39
+Syria,23.17
+United Kingdom,23.01
+Jordan,22.75
+North Korea,22.68
+Iraq,22.66
+Moldova,22.6
+Mauritius,22.44
+Bangladesh,21.99
+Israel,21.91
+Slovakia,21.91
+Bahrain,21.41
+Colombia,20.91
+Chile,20.32
+South Korea,19.84
+Malta,19.76
+Iran,19.67
+Norway,19.62
+Mexico,19.52
+Azerbaijan,19.02
+Maldives,18.56
+Jamaica,18.29
+Poland,17.56
+Denmark,17.12
+Honduras,16.61
+Ireland,15.91
+Mongolia,15.64
+Sweden,15.57
+Czech Republic,15.51
+Slovenia,15.28
+United States,14.91
+China,14.69
+Netherlands,14.56
+Bulgaria,14.56
+Turkey,14.43
+France,14.1
+Costa Rica,13.81
+Latvia,12.99
+Luxembourg,12.46
+Iceland,11.9
+Kyrgyzstan,11.82
+Lithuania,11.59
+Albania,11.29
+Qatar,11.21
+Greece,11.16
+New Zealand,10.98
+Germany,10.86
+Georgia,10.24
+Spain,10.21
+Switzerland,10.19
+Estonia,10.18
+Armenia,9.9
+Australia,9.68
+Canada,9.34
+Ukraine,9.02
+Lebanon,8.57
+Serbia,8.21
+Cyprus,8.19
+Italy,8.15
+Bosnia/Herzeg.,7.25
+Croatia,7.08
+Montenegro,6.49
+Hungary,6.1
+Belarus,5.19
+No Macedonia,4.58
+Austria,4.27
+Finland,2.91
